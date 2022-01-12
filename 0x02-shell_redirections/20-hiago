@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | tr -c c C
+tr -c "[c,C]"
