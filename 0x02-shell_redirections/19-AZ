@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Z,A' 'c,e'
+tr '[A,Z]' '[e,c]'
