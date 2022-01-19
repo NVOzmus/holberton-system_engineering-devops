@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Code displays current contents of directory,in list, without information before the cut
 cd=$(ls)
 file=0
 for file in $cd
