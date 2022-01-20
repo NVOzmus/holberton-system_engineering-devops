@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# script stops #4 process without use of kill or killall
