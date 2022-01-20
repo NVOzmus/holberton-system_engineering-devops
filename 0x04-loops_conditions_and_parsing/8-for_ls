@@ -4,5 +4,5 @@ cd=$(ls)
 file=0
 for file in $cd
 do
-	echo $file | cut -d "-" -f2
+	echo "$file" | cut -d "-" -f2
 done
